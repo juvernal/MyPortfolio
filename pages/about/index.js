@@ -38,8 +38,8 @@ const aboutData = [
         title: "UI/UX Design",
         icons: [
           <FaFigma key={0} />,
-          <SiAdobexd key={0} />,
-          <SiAdobephotoshop key={0} />,
+          <SiAdobexd key={1} />,
+          <SiAdobephotoshop key={2} />,
         ],
       },
     ],
