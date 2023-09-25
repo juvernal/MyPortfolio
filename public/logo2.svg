@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1125" height="142" viewBox="0 0 1125 142">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 133.333px;
+      }
+
+      .cls-1 {
+        text-anchor: middle;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Montserrat;
+        font-weight: 800;
+      }
+
+      .cls-3 {
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <image id="Calque_1_copie" data-name="Calque 1 copie" x="1104" y="119" width="19" height="19" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAANElEQVQ4jWP8aKCiwMDAkMBAOVjAwsDAADKsngqGHWCigiFwMGrYqGGjho0aNiwMY2BgAAAnrwPs4H3GmgAAAABJRU5ErkJggg=="/>
+  <text id="fonou_wilfried" data-name="fonou wilfried" class="cls-1" transform="matrix(1.089, 0, 0, 1.197, 551.303, 138.17)"><tspan x="0"><tspan class="cls-2">fonou</tspan> <tspan class="cls-3">wilfried</tspan></tspan></text>
+</svg>
