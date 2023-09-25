@@ -137,7 +137,7 @@ const About = () => {
           >
             5 years ago, i began freelancing as developer. Since then, I&apos;ve
             done remote work and intership for agencies, consulted for startups
-            , and collaborated on digital products fro business and consumer
+            , and collaborated on digital products for business and consumer
             use.
           </motion.p>
           {/* counter */}
