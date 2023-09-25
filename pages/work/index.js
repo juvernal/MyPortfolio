@@ -29,9 +29,8 @@ const Work = () => {
               exit="hidden"
               className="mb-4 max-w-[400px] mx-auto lg:mx-0"
             >
-              POccaecat duis Lorem anim dolor amet cupidatat et amet. Quis
-              adipisicing consequat non excepteur qui excepteur voluptate
-              incididunt.
+              There is some projects in web and application development. You can
+              contact me to see my work in graphic design and motion design
             </motion.p>
           </div>
           <motion.div
