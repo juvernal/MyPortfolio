@@ -21,7 +21,8 @@ const serviceData = [
   {
     icon: <RxCrop />,
     title: "Branding",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    description:
+      "Branding is the heart and soul of your business. Let's upgrade your business",
   },
   {
     icon: <RxPencil2 />,

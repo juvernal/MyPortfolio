@@ -1,25 +1,25 @@
 // testimonial data
 const testimonialData = [
   {
-    image: "/t-avt-1.png",
-    name: "Anne Smith",
+    image: "/t-avt-4.png",
+    name: "Simo Valere",
     position: "Customer",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "I was so impressed with Fonou's design services. They took the time to understand my business and my goals, and they developed a design that is both unique and memorable. The designing process was smooth and efficient, and I was always kept in the loop.",
   },
   {
-    image: "/t-avt-2.png",
-    name: "Jane Doe",
+    image: "/t-avt-5.png",
+    name: "Baurice Nafack",
     position: "Customer",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "I was very impressed with the web development services provided by Fonou. They were able to create a website that is both visually appealing and easy to use. They also worked closely with me to ensure that the website met all of my needs and requirements.",
   },
   {
-    image: "/t-avt-3.png",
-    name: "Jhon Doe",
-    position: "Customer",
+    image: "/t-avt-6.png",
+    name: "Nguimdo Leopold",
+    position: "Video Editor",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "I was so impressed with the motion design services provided by [your name]. They were able to create a video that is both visually stunning and engaging. The video helped me to explain my product in a clear and concise way, and it has been very effective in generating leads and sales",
   },
 ];
 
