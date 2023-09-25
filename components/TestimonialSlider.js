@@ -19,7 +19,7 @@ const testimonialData = [
     name: "Nguimdo Leopold",
     position: "Video Editor",
     message:
-      "I was so impressed with the motion design services provided by [your name]. They were able to create a video that is both visually stunning and engaging. The video helped me to explain my product in a clear and concise way, and it has been very effective in generating leads and sales",
+      "I was so impressed with the motion design services provided by Wilfried. They were able to create a video that is both visually stunning and engaging. The video helped me to explain my product in a clear and concise way, and it has been very effective in generating leads and sales",
   },
 ];
 
